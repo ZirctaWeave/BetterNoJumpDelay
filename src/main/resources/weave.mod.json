@@ -1,0 +1,12 @@
+{
+  "name": "Better No Jump Delay",
+  "author": "Syz66",
+  "version": "1.0",
+  "link": "https://github.com/Syz66/BetterNoJumpDelay",
+  "mixinConfigs": [
+    "bnjd.mixins.json"
+  ],
+  "entrypoints": [
+    "me.zircta.bnjd.Main"
+  ]
+}
